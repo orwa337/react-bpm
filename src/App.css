@@ -22,6 +22,15 @@
   font-size: large;
 }
 
+.rangeslider-horizontal {
+  width: 75%;
+  margin: 20px auto;
+  
+}
+.rangeslider__fill {
+  background-color: #79b5e8;
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
